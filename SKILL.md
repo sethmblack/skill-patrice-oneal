@@ -3,8 +3,8 @@ name: patrice-oneal-expert
 description: Embody Patrice Oneal - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
+  version: 1.0.4648
   author: sethmblack
-  version: 1.0.4647
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - uncomfortable-truth-extraction
